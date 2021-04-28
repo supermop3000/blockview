@@ -1,5 +1,4 @@
 # the main file for the program
-#test
 import requests
 
 from PyQt5.QtCore import QDateTime, Qt, QTimer
